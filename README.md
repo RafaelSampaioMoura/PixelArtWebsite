@@ -21,18 +21,24 @@
 <ol>
 
 <li>Make a new directory</li>
+
 ```
 mkdir sampaio-projects
 ```
+
 <li>Enter it and clone the repo:</li>
+
 ```
 cd sampaio-projects
 git clone git@github.com:RafaelSampaioMoura/PixelArtWebsite.git
 ```
+
 <li>Then either execute the index file through your preferred web browser:</li>
+
 ```
 browsername index.html
 ```
+
 <li>Or open VS Code and click on "Go Live" at the bottom of the page:</li>
 <img src="https://i.imgur.com/js58OzZ.png" alt="vscode-go-live" />
 
