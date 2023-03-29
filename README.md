@@ -1,8 +1,11 @@
 <h1 align="center">Salutations!</h1>
 
-<img src="https://i.imgur.com/Vk26CHZ.gif" alt="pixel-art-website" />
+<img align="center" src="https://i.imgur.com/Vk26CHZ.gif" alt="pixel-art-website" />
 
 ## English
+<details>
+  
+<summary>Click to Expand</summary>
 
 ### About
 <p>Allowing the user to color a simple 5x5 gird of pixels, this web page was made in order to practice JavaScript functionalities relating to the DOM, web storage and event handling.</p>
@@ -34,5 +37,7 @@ browsername <filename>
 <img src="https://i.imgur.com/js58OzZ.png" alt="vscode-go-live" />
 
 </ol>
+  
+</details>
 
 ## Português
