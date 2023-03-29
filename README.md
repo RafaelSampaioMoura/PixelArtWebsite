@@ -1,6 +1,6 @@
 <h1 align="center">Salutations!</h1>
 
-<img align="center" src="https://i.imgur.com/Vk26CHZ.gif" alt="pixel-art-website" />
+<img align="center" src="https://i.imgur.com/Vk26CHZ.gif" alt="pixel-art-website" ></img>
 
 ## English
 <details>
