@@ -66,19 +66,24 @@ browsername index.html
 <ol>
 
 <li>Crie um novo diretório</li>
+
 ```
 mkdir sampaio-projects
 ```
+
 <li>Entre na pasta e clone o repositório:</li>
+
 ```
 cd sampaio-projects
 git clone git@github.com:RafaelSampaioMoura/PixelArtWebsite.git
 ```
 
 <li>Daí você pode executar o arquivo index a partir da linha de comando usando o seu navegador de preferência:</li>
+
 ```
 browsername index.html
 ```
+
 <li>Ou você pode utilizar a funcionalidade "Go Live" do VS Code:</li>
 <img src="https://i.imgur.com/js58OzZ.png" alt="vscode-go-live" />
 
